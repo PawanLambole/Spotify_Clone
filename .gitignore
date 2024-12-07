@@ -1,0 +1,17 @@
+# Configuration files
+config.php
+.env
+
+# Dependencies
+vendor/
+node_modules/
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Cache files
+.DS_Store 
